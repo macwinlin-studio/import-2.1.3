@@ -79,6 +79,10 @@
 
 ![2 1_effect_display_2](https://user-images.githubusercontent.com/82391092/142764555-f6b0f9a5-04c3-446b-9245-d254e8f5d8df.png)
 
+## V2.2
+
+- 将文件从py文件改为pyw文件
+
 ### V3.0预告
 
 - 重新制作的GUI界面
