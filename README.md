@@ -66,7 +66,26 @@ More people may join in the future.
 - Use database storage default path
 - Add **Change config.py** program
 - Change other functions (Install and uninstall sign) to use database path
+### V2.1
+- Rewrite select language code(Change Listbox to RadioButton)
+#### V2.1 Effect Display
+Before update:
 
+![2 1_effect_display_1](https://user-images.githubusercontent.com/82391092/142764421-3f20e3f2-da2f-432b-b662-3ddefb530c3f.png)
+
+After update:
+
+![2 1_effect_display_2](https://user-images.githubusercontent.com/82391092/142764462-6557cd1e-f771-46db-bfd2-361b049c6c77.png)
+
+### V2.2
+
+- Change the file from py file to pyw file
+
+### V3.0 Function
+- Reworked GUI interface
+- Newly added copyright tips
+
+Please look forward to V3.0!
 ## License
 
 This project uses Apache-2.0 License.
