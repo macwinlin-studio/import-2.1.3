@@ -65,6 +65,30 @@
 - 使用数据库存储默认路径
 - 添加**Change config.py**程序
 - 将其他功能(安装签名、卸载签名除外)改为使用数据库路径
+### V2.1
+
+- 重写了选择语言代码(将Listbox更改为RadioButton)
+
+#### V2.1效果展示
+
+更新前：
+
+![2 1_effect_display_1](https://user-images.githubusercontent.com/82391092/142764548-cda808a6-a36c-4f98-9c96-07d6045f28c5.png)
+
+更新后：
+
+![2 1_effect_display_2](https://user-images.githubusercontent.com/82391092/142764555-f6b0f9a5-04c3-446b-9245-d254e8f5d8df.png)
+
+## V2.2
+
+- 将文件从py文件改为pyw文件
+
+### V3.0预告
+
+- 重新制作的GUI界面
+- 新添加的版权提示
+
+敬请期待V3.0！
 
 ## 许可证
 
