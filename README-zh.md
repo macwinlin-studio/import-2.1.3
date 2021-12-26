@@ -79,9 +79,13 @@
 
 ![2 1_effect_display_2](https://user-images.githubusercontent.com/82391092/142764555-f6b0f9a5-04c3-446b-9245-d254e8f5d8df.png)
 
-## V2.2
+### V2.1.1
 
 - 将文件从py文件改为pyw文件
+
+### V2.1.2
+
+- 添加了新建pyw文件及其他适配pyw文件的功能
 
 ### V3.0预告
 
