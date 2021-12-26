@@ -77,9 +77,13 @@ After update:
 
 ![2 1_effect_display_2](https://user-images.githubusercontent.com/82391092/142764462-6557cd1e-f771-46db-bfd2-361b049c6c77.png)
 
-### V2.2
+### V2.1.1
 
 - Change the file from py file to pyw file
+
+### V2.1.2
+
+- Added the function of creating new pyw files and other adaptive pyw files
 
 ### V3.0 Function
 - Reworked GUI interface
