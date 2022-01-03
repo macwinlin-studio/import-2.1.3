@@ -94,6 +94,7 @@ After update:
   Somehow,Popen in Python OS Library doesn't work,I was forced to change the function.Popen Function has been replaced with Remove Function.
   Delete code is not affected.It uses the Unlink Function.
 </details>
+
 ### V3.0 Function
 - Reworked GUI interface
 - Newly added copyright tips
