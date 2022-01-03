@@ -87,6 +87,17 @@
 
 - 添加了新建pyw文件及其他适配pyw文件的功能
 
+### V2.1.3
+
+- 修复了Uninstall Sign的漏洞
+
+<details>
+  <summary>详情</summary>
+  不知为何，Python OS库的popen不起作用了，我迫于无奈更改了方法。popen方法被换成remove方法了。
+  Delete Code不受影响。它使用unlnk方法。
+  为popen默哀0.01毫秒，下周它可能就会被我忘了。。。
+</details>
+
 ### V3.0预告
 
 - 重新制作的GUI界面
