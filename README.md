@@ -85,6 +85,15 @@ After update:
 
 - Added the function of creating new pyw files and other adaptive pyw files
 
+### V2.1.3
+
+- Fixed a vulnerability in Uninstall Sign.
+
+<details>
+  <summary>Details</summary>
+  Somehow,Popen in Python OS Library doesn't work,I was forced to change the function.Popen Function has been replaced with Remove Function.
+  Delete code is not affected.It uses the Unlink Function.
+</details>
 ### V3.0 Function
 - Reworked GUI interface
 - Newly added copyright tips
