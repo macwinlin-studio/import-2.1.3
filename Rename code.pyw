@@ -3,7 +3,7 @@ import wx,os
 from function import read,pd,jd
 class MyFrame(wx.Frame):
     def __init__(self):
-        super().__init__(None,title='Rename code',size=(300,270))
+        super().__init__(None,title='Rename code',size=(300,285))
         panel = wx.Panel(parent=self)
         icon = wx.Icon('icon.ico',wx.BITMAP_TYPE_ICO)
         self.SetIcon(icon)
