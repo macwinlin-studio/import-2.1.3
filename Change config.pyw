@@ -60,6 +60,9 @@ class MyFrame(wx.Frame):
         con.commit()
         cur.close()
         con.close()
+        message = wx.MessageDialog(None,'Change succeeded!','INFORMATION',wx.OK | wx.ICON_INFORMATION)
+        if message.ShowModal() == wx.ID_OK:
+            pass
 app = wx.App()
 frame = MyFrame()
 frame.Show()
