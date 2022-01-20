@@ -30,6 +30,18 @@ def make(path,suffix):
         file.write('    public static void main(String[] args) {\n')
         file.write('    }\n')
         file.write('}')
+    elif suffix == '.c':
+        file.write('#include <stdio.h>\n')
+        file.write('int main()\n')
+        file.write('{\n')
+        file.write('    return 0;\n')
+        file.write('}')
+    elif suffix == '.cpp':
+        file.write('#include <iostream>\n')
+        file.write('int main()\n')
+        file.write('{\n')
+        file.write('    return 0;\n')
+        file.write('}')
     else:
         pass
     file.close()
