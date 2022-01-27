@@ -22,7 +22,7 @@ You can now directly modify the default path using the **Change config.py** prog
 
 This project can be run directly,but this project needs to install some necessary modules.
 
-You can use this code in the project save location:pip install -r wxPython
+You can use this code in the project save location:pip install wxPython
 
 Then open Python and run it.
 
