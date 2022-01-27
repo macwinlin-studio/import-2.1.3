@@ -95,12 +95,6 @@ After update:
   Delete code is not affected.It uses the Unlink Function.
 </details>
 
-### V3.0 Function
-- Reworked GUI interface
-- Newly added copyright tips
-
-Please look forward to V3.0!
-
 ## License
 
 This project uses Apache-2.0 License.
