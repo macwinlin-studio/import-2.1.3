@@ -2,6 +2,8 @@
 
 这是import的README的中文版。
 
+[English](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README.md) | 简体中文 | [繁體中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-tc.md)
+
 此项目使您能够快速创建新项目。该项目已停止更新，并且基于wxPython包。
 
 ## 背景
