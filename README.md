@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://s1.imagehub.cc/images/2022/01/29/icon.png" width="80px" height="80px">
-  <h1 align="center">import 2.1.3</h1>
+  <h1 align="center">import</h1>
   
   English | [简体中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-zh.md) | [繁體中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-tc.md)
   
+  <a href="https://github.com/macwinlin-studio/import-2.1.3/releases">
+    <img src="https://img.shields.io/badge/Release-2.1.3-blue" alt="">
+  </a>
 </div>
 
 This is import's README.
