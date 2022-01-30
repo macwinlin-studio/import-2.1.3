@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/macwinlin-studio/import-2.1.3/releases" width="80px" height="80px">
+  <img src="https://s1.imagehub.cc/images/2022/01/29/icon.png" width="80px" height="80px">
   
   English | [简体中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-zh.md) | [繁體中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-tc.md)
   
