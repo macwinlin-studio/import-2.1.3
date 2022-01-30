@@ -101,4 +101,4 @@ After update:
 
 ## License
 
-This project uses Apache-2.0 License.
+This project uses Apache 2.0 License.
