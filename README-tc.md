@@ -13,7 +13,7 @@
   <a href="https://github.com/macwinlin-studio/import-2.1.3/releases">
     <img src="https://img.shields.io/github/downloads/xinxin2021/import-2.1.3/total" alt="">
   </a>
-  <a href="https://www.microsoft.com/en-us/windows">
+  <a href="https://www.microsoft.com/zh-hk/windows">
     <img src="https://img.shields.io/badge/platform-windows-red">
   </a>
   <a href="https://www.python.org/">
