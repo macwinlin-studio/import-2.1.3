@@ -26,6 +26,8 @@
 
 然后打开Python并运行它。
 
+使用EXE版可忽略以上步骤。
+
 ## 使用
 
 目前已实现以下功能：
@@ -96,16 +98,9 @@
 <details>
   <summary>详情</summary>
   不知为何，Python OS库的popen不起作用了，我迫于无奈更改了方法。popen方法被换成remove方法了。
-  Delete Code不受影响。它使用unlnk方法。
+  Delete Code不受影响。它使用unlink方法。
   为popen默哀0.01毫秒，下周它可能就会被我忘了。。。
 </details>
-
-### V3.0预告
-
-- 重新制作的GUI界面
-- 新添加的版权提示
-
-敬请期待V3.0！
 
 ## 许可证
 
