@@ -1,8 +1,23 @@
-# import
+<div align="center">
+  <img src="https://s1.imagehub.cc/images/2022/01/29/icon.png" width="80px" height="80px">
+  <h1 align="center">import</h1>
+  
+  [English](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README.md) | 简体中文 | [繁體中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-tc.md)
+  
+  <a href="https://github.com/macwinlin-studio/import-2.1.3/releases">
+    <img src="https://img.shields.io/badge/release-2.1.3-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="">
+  </a>
+  <a href="https://github.com/macwinlin-studio/import-2.1.3/releases">
+    <img src="https://img.shields.io/github/downloads/xinxin2021/import-2.1.3/total" alt="">
+  </a>
+  <img src="https://img.shields.io/badge/platform-windows-red">
+  <img src="https://img.shields.io/badge/python-v3.9-orange">
+</div>
 
 这是import的README的中文版。
-
-[English](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README.md) | 简体中文 | [繁體中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-tc.md)
 
 此项目使您能够快速创建新项目。该项目已停止更新，并且基于wxPython包。
 
