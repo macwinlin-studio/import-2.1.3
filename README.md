@@ -7,6 +7,9 @@
   <a href="https://github.com/macwinlin-studio/import-2.1.3/releases">
     <img src="https://img.shields.io/badge/Release-2.1.3-blue" alt="">
   </a>
+  <a href="https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache--2.0-blue" alt="">
+  </a>
 </div>
 
 This is import's README.
