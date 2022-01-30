@@ -2,6 +2,8 @@
 
 This is import's README.
 
+English | [简体中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-zh.md) | [繁體中文](https://github.com/macwinlin-studio/import-2.1.3/blob/2.1.3/README-tc.md)
+
 This project enables you to quickly create a new project.That has stopped updating and is based on the wxPython package.
 
 ## Background
