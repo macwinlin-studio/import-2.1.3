@@ -13,8 +13,12 @@
   <a href="https://github.com/macwinlin-studio/import-2.1.3/releases">
     <img src="https://img.shields.io/github/downloads/xinxin2021/import-2.1.3/total" alt="">
   </a>
-  <img src="https://img.shields.io/badge/platform-windows-red">
-  <img src="https://img.shields.io/badge/python-v3.9-orange">
+  <a href="https://www.microsoft.com/en-us/windows">
+    <img src="https://img.shields.io/badge/platform-windows-red">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-v3.9-orange">
+  </a>
 </div>
 
 This is import's README.
