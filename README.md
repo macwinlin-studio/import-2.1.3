@@ -83,7 +83,7 @@ More people may join in the future.
 - Icon drawn
 ### V1.5
 - Added GUI interface
-- Added sign.sign file(Add `Install sign` + `Uninstall sign` at the same time)
+- Added `sign.sign` file(Add `Install sign` + `Uninstall sign` at the same time)
 - Redrawn Icon
 ### V2.0
 - Use database storage default path
