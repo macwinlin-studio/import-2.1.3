@@ -35,15 +35,15 @@ But then think about it, it seems a little inconvenient.
 
 Therefore, **SQLite3 package** + **SQL command** + **database** are used to store / modify the default path.
 
-The **Change config.py** file is then created.
+The `Change config.py` file is then created.
 
-You can now directly modify the default path using the **Change config.py** program.
+You can now directly modify the default path using the `Change config.py` program.
 
 ## Install
 
 This project can be run directly,but this project needs to install some necessary modules.
 
-You can use this code in the project save location:pip install wxPython
+You can use this code in the project save location:`pip install wxPython`
 
 Then open Python and run it.
 
@@ -83,12 +83,12 @@ More people may join in the future.
 - Icon drawn
 ### V1.5
 - Added GUI interface
-- Added sign.sign file(Add installation sign + uninstall sign at the same time)
+- Added sign.sign file(Add `Install sign` + `Uninstall sign` at the same time)
 - Redrawn Icon
 ### V2.0
 - Use database storage default path
-- Add **Change config.py** program
-- Change other functions (Install and uninstall sign) to use database path
+- Add `Change config.py` program
+- Change other functions (`Install sign.py` and `Uninstall sign.py`) to use database path
 ### V2.1
 - Rewrite select language code(Change Listbox to RadioButton)
 #### V2.1 Effect Display
@@ -110,7 +110,7 @@ After update:
 
 ### V2.1.3
 
-- Fixed a vulnerability in Uninstall Sign.
+- Fixed a vulnerability in `Uninstall Sign.py`.
 
 <details>
   <summary>Details</summary>
